@@ -1935,7 +1935,7 @@ footer {
   width: 6.875em;
   height: 6.875em;
   margin: 0 auto;
-  background: no-repeat url("../img/author.jpg") left top;
+  background: no-repeat url("../") left top;
   background-size: 6.875em 6.875em;
   border-radius: 3.4375em;
   -webkit-transition: -webkit-transform 2s ease-out;
